@@ -7,3 +7,6 @@ git merge
 git reset --soft HEAD~
 git reset -- hard HEAD~
 git push origin main
+
+
+este es otro cambio 
