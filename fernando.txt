@@ -1,0 +1,12 @@
+git pull
+git branch
+git checkout
+git add
+git commit
+git merge
+git reset --soft HEAD~
+git reset -- hard HEAD~
+git push origin main
+
+
+este es otro cambio 
